@@ -15,7 +15,7 @@
 ## 🙋 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** na **FIAP** (5° semestre, previsão 12/2027)
-- 🚀 Atualmente desenvolvendo a **OrbitaVerde** — plataforma de monitoramento ambiental com dados da NASA/ESA
+- ✅ Desenvolvi o **OrbitaVerde** — plataforma de monitoramento ambiental com dados da NASA/ESA
 - 🌱 Aprendendo e evoluindo em **React Native**, **C#**, **Python** e arquitetura de software
 - 💼 Buscando meu **primeiro estágio** em desenvolvimento de software
 - 📍 São Paulo, SP
@@ -90,8 +90,6 @@ Integra dados da **NASA/ESA** para detectar queimadas, desmatamento e eventos cl
 ---
 
 <div align="center">
-
-*"Código limpo não é escrito seguindo regras — é escrito por alguém que se importa."*
 
 ⭐ Se curtiu algum projeto, deixa uma estrela!
 
